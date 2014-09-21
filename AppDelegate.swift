@@ -4,7 +4,7 @@
 //
 //  Created by Training on 21/07/14.
 //  Copyright (c) 2014 Training. All rights reserved.
-//
+//  Xcode 6.0.1 promotes a linkage error that requires you to remove all files from folder ~/Library/Developer/Xcode/DerivedData/ 
 
 import UIKit
 import CoreData
